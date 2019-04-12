@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+diff
 void main(){
 }
 
